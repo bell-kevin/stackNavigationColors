@@ -4,7 +4,7 @@ In the tutorial, you encountered a lot of topics about navigation. This project 
 
 ![stack-1.PNG](https://github.com/bell-kevin/stackNavigationColors/blob/main/pics/stack-1.PNG)     ![stack-blue.PNG](https://github.com/bell-kevin/stackNavigationColors/blob/main/pics/stack-blue.PNG)   
 
-![stack-green.PNG](https://github.com/bell-kevin/stackNavigationColors/blob/main/pics/stack-green.PNG)      ![stack-red.PNG}(https://github.com/bell-kevin/stackNavigationColors/blob/main/pics/stack-red.PNG)
+![stack-green.PNG](https://github.com/bell-kevin/stackNavigationColors/blob/main/pics/stack-green.PNG)      ![stack-red.PNG](https://github.com/bell-kevin/stackNavigationColors/blob/main/pics/stack-red.PNG)
 
 None of the pages has a white background or black text. The home page has buttons to navigate in a stack to the specified screen. The 3 buttons are the same width, with space between them. Each color screen has a Back button in the header, automatically provided by the stack navigator. The background color is specified in the text; that text is bold weight, in the color family of the screen (see above). To practice using images, add an image that displays the color of the page on each color page. You may pick the 3 colors and the images for the pages. The images must be local assets. The header for all screens has a background color that is not white, text color that is not black, and bold font weight.
 
