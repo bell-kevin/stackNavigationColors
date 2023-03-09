@@ -14,6 +14,10 @@ Take 4 screenshots, as shown above.
 
 Submission: Zip together the root folder and the 4 screenshots, and submit the single zipped folder.
 
+![p](https://github.com/bell-kevin/stackNavigationColors/blob/main/screenshots/homeScreen.PNG) ![p](https://github.com/bell-kevin/stackNavigationColors/blob/main/screenshots/blue.PNG)
+
+![p](https://github.com/bell-kevin/stackNavigationColors/blob/main/screenshots/green.PNG) ![p](https://github.com/bell-kevin/stackNavigationColors/blob/main/screenshots/red.PNG)
+
 https://github.com/academind/react-native-practical-guide-code/tree/06-navigation/code/16-finished
 
 ## How to:
